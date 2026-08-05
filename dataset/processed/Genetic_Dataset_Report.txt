@@ -1,0 +1,27 @@
+
+============================================================
+GENETIC DATASET ANALYSIS REPORT
+============================================================
+
+Dataset Name        : GEO
+
+Rows                : 51131
+Columns             : 36
+Genes               : 51131
+Samples             : 35
+
+Missing Values      : 0
+Duplicate Genes     : 0
+
+Minimum Expression  : 0
+Maximum Expression  : 6201447
+
+Dataset Orientation
+
+Rows    -> Genes
+Columns -> Samples
+
+Conclusion
+
+The dataset is a high-dimensional gene expression
+dataset suitable for preprocessing.
